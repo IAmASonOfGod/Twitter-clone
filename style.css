@@ -754,11 +754,6 @@ input{
     
 }
 
-.trending-footer-section li .More{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 .trending-footer-section li{
     display:inline-block;
